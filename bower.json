@@ -1,0 +1,17 @@
+{
+  "name": "gulpangular",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Abhishek <ap00575257@techmahindra.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
